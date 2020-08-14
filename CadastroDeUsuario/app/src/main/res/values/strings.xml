@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro de usuario</string>
+    <string name="action_settings">Modo de exibição</string>
+    <string name="cadasUser">Cadastrar usuario</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="e_mail">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="alerta_titulo">Alerta</string>
+    <string name="alerta_mensagem" translatable="false">Campos inválidos ou em branco.</string>
+    <string name="erro_mensagem">Campo obrigatorio.</string>
+    <string name="erro_mensagem_email">Campo inválido.</string>
+    <string name="alerta_mensagem_user">Erro inesperado.</string>
+    <string name="alerta_mensagem_delata">Tem certeza que deseja excluir esta pessoa?</string>
+    <string name="alerta_mensagem_edit">Usuario editado com sucesso. Continuar editando?</string>
+</resources>
